@@ -1,0 +1,30 @@
+20233718	10:37:55	e0da80d3-c6f1-40d1-bd92-4ef9369bc054	Error:Not allowed by CORS	GET	/	undefined
+20232818	13:28:03	0b9bb134-de90-49bc-8ad1-255ae4978b82	TypeError:Cannot read properties of undefined (reading 'length')	POST	/users	undefined
+20232818	13:28:28	9419a4bc-b2eb-4a5f-87dd-e44c7ad751e4	TypeError:Cannot read properties of undefined (reading 'length')	POST	/users	undefined
+20231623	10:16:10	5edf9b71-2eb8-485b-84fd-bc9746d34d9a	TypeError:Cannot read properties of undefined (reading 'length')	POST	/users	undefined
+20231623	10:16:47	5da45064-b148-4d4d-a540-883fe4ac50bd	TypeError:Cannot read properties of undefined (reading 'length')	POST	/users	undefined
+20230724	10:47:14	532bead4-4aae-4dbf-8665-c1e122d2e5ed	Error:Not allowed by CORS	GET	/users	http://localhost:3000
+20230724	11:03:52	953cde38-9fe7-4876-bca3-36372a1d4504	TypeError:Cannot read properties of undefined (reading 'length')	POST	/users	undefined
+20230725	14:34:22	6d9e0646-e1bc-4e19-bf90-c99503bb15e6	ValidationError:Note validation failed: user: Cast to ObjectId failed for value "pk" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20230725	20:20:43	5db5cad2-e5b9-40ab-a14f-a9f7a3e0a798	ReferenceError:duplicate is not defined	POST	/notes	undefined
+20230726	14:34:37	7f084203-37ee-4406-b63a-6b7fe318ab28	TypeError:allowedOrigins.indexOf is not a function	POST	/notes	undefined
+20230731	20:59:41	e9378da2-56cd-414d-ab2c-6244e41be5c9	TypeError:Cannot read properties of undefined (reading 'username')	GET	/notes	http://localhost:3000
+20230731	20:59:41	414b25ed-0793-4f93-ab54-ad966aeaeb36	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230731	20:59:45	6358f334-361a-443e-8f29-80ebdae658ce	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230731	21:00:19	b90253f2-aeb7-4050-bddb-932151c57cf7	TypeError:Cannot read properties of undefined (reading 'username')	GET	/notes	http://localhost:3000
+20230731	21:00:19	f1e8fca2-c7bd-40d7-ac49-7d89f69eb8f8	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230731	21:00:20	e7ebce12-fc41-4dd2-bc50-67e9ccce9fda	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230731	21:00:42	8e623ed4-41ec-47cc-889b-4ecb120d9422	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230731	21:01:07	2f9fa5c0-1424-4739-a23e-91edf16defb5	TypeError:Cannot read properties of undefined (reading 'UserInfo')	GET	/users	http://localhost:3000
+20230731	21:02:07	7ad72791-13e8-4f04-b0d2-e60be2e4ca60	TypeError:Cannot read properties of undefined (reading 'UserInfo')	GET	/users	http://localhost:3000
+20230731	21:03:08	a10a9ba2-04e6-4c1d-afac-51d496d08983	TypeError:Cannot read properties of undefined (reading 'UserInfo')	GET	/users	http://localhost:3000
+20230731	21:03:35	c6d42b8c-4b04-4674-981d-30c25c6e5947	TypeError:Cannot read properties of undefined (reading 'UserInfo')	GET	/users	http://localhost:3000
+20230731	21:03:57	e93aac7c-4b6b-4d20-b93a-451bdfc4ee5f	TypeError:Cannot read properties of undefined (reading 'username')	GET	/notes	http://localhost:3000
+20230731	21:03:57	dc89a694-05a6-4c45-866a-6eb949c77ac7	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230731	21:04:38	dba90092-4d2c-4d54-8415-f54cc5ae3594	TypeError:Cannot read properties of undefined (reading 'username')	GET	/notes	http://localhost:3000
+20230731	21:04:38	424fb7a5-57e2-4152-8152-4b0779c11b70	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230731	21:05:31	1cdc5369-88cd-4f2c-9bf1-3b7e77bef4a6	TypeError:Cannot read properties of undefined (reading 'username')	GET	/notes	http://localhost:3000
+20230731	21:05:31	0d050434-29b6-4bd2-ac4e-dbaef18d3eec	TypeError:Cannot read properties of undefined (reading 'username')	GET	/users	http://localhost:3000
+20230808	20:51:45	e00669b3-7613-453b-848a-8cfa0b93f9af	ReferenceError:meetupId is not defined	DELETE	/users	http://localhost:3000
+20230808	21:00:09	fcb088b2-67e4-4489-bd5f-a2a3d0dd84d6	SyntaxError:Unexpected token } in JSON at position 111	POST	/notes	undefined
+20230815	09:23:59	47f3be46-d62f-4b3a-aca7-10d695122c62	Error:Not allowed by CORS	OPTIONS	/auth	http://localhost:3001
